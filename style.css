@@ -543,7 +543,7 @@ color: var(--first-color);
 }
 
 .skills_react{
-    width: 20%;
+    width: 40%;
 }
 
 .skills_php{
@@ -555,11 +555,11 @@ color: var(--first-color);
 }
 
 .skills_firebase{
-    width: 75%;
+    width: 55%;
 }
 
 .skills_python{
-    width: 65%;
+    width: 55%;
 }
 .skills_figma{
     width: 50%;
@@ -570,6 +570,12 @@ color: var(--first-color);
 }
 .skills_photoshop{
     width: 65%;
+}
+.skills_mysql{
+    width: 50%;
+}
+.skills_mongodb{
+    width: 40%;
 }
 
 .skills_close .skills_list{
